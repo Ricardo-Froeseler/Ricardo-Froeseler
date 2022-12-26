@@ -1,16 +1,13 @@
-### Hi there 👋
+# Ricardo Froeseler
 
-<!--
-**Ricardo-Froeseler/Ricardo-Froeseler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Estou aprendendo sobre programação focado em, desenvolvimento web e principalmente ajudar pessoas! :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Sou soicio proprietario da **Materprint**
+ <br/><br/> :purple_heart: &nbsp; Desenvolvimento web
+ <br/><br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native, Flutter & Typescript
+ <br/><br/> 💬  &nbsp; Sobre mim: Curto tecnologias :iphone: viagens :airplane:
+ <br/><br/> :email: &nbsp; Entre em contato comigo: 
+ <br/> 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-RicardoFroeseler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-froeseler-184a1025b/)](https://www.linkedin.com/in/ricardo-froeseler-184a1025b/) | [![Gmail Badge](https://img.shields.io/badge/-ricardojrfroeseler@materprint.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardojrfroeseler@materprint.com.br)](mailto:ricardojrfroeseler@materprint.com.br)
